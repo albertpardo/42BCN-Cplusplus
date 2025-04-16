@@ -1,0 +1,4 @@
+Archivo con palabras repetidas
+
+palabra palabra algo mas palabra
+camino palabra camino palabra
